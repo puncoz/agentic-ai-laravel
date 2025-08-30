@@ -132,14 +132,13 @@ presentation/
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/puncoz/agentic-ai-laravel.git
 cd agentic-ai-laravel
 ```
 
 2. **Install dependencies**
 ```bash
 composer install
-npm install
 ```
 
 3. **Environment setup**
