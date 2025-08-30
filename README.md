@@ -1,6 +1,6 @@
 # 🤖 Agentic AI Laravel Demo
 
-A Laravel demonstration project showcasing Agentic AI patterns and implementations, presented at PHPxTKY (PHP Tokyo Meetup) August 2025.
+A Laravel demonstration project showcasing Agentic AI patterns and implementations, presented at [PHPxTKY (PHP Tokyo Meetup) August 2025](https://www.meetup.com/phpxtky/events/309079243/).
 
 ## Original Slide
 [Slide](https://www.canva.com/design/DAGxeNP6ut8/6Fas-CRCj_T40JWQa7seNQ/view?utm_content=DAGxeNP6ut8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbd9cbbe4fc)
@@ -251,7 +251,8 @@ $tools = [
 
 **PHPxTKY (PHP Tokyo Meetup) - August 2025**
 
-*"When Machines Start Planning Their Own World Domination (But Don't Worry, They're Still Bad at Making Coffee)"*
+Title: Replacing Business Logic with Agentic AI: Building Adaptive and Intelligent Laravel Applications
+Meetup Link: https://www.meetup.com/phpxtky/events/309079243/
 
 ## 🤝 Contributing
 
