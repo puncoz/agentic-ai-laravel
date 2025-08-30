@@ -251,8 +251,9 @@ $tools = [
 
 **PHPxTKY (PHP Tokyo Meetup) - August 2025**
 
-Title: Replacing Business Logic with Agentic AI: Building Adaptive and Intelligent Laravel Applications
-Meetup Link: https://www.meetup.com/phpxtky/events/309079243/
+**Title**: Replacing Business Logic with Agentic AI: Building Adaptive and Intelligent Laravel Applications
+
+**Meetup Link**: https://www.meetup.com/phpxtky/events/309079243/
 
 ## 🤝 Contributing
 
